@@ -1,0 +1,31 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkslategray ;
+    color: whitesmoke;
+
+}
+table{
+    margin: auto;
+    text-align: center;
+}
+th,td{
+
+    border: 2px solid black;
+    padding: 10px;
+    display: inline-block;
+    
+    width: 100px;
+    height: 30px;
+    padding: auto;
+}
+td{
+    background-color: hsla(50, 60%, 78%, 0.5);
+}
+.long_box{
+    width: 470px;
+    height: auto;
+    background-color: darkcyan;
+}
+.head_color{
+    background-color: rgb(41, 116, 141);
+}
